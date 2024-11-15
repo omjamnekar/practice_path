@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "80340017479",
+    "firebase_url": "https://parth-ac9a3-default-rtdb.firebaseio.com",
+    "project_id": "parth-ac9a3",
+    "storage_bucket": "parth-ac9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80340017479:android:bd41720825c2a10057ec62",
+        "android_client_info": {
+          "package_name": "com.example.git_up_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80340017479-3lih73mdtadod52mfkfbo8irs47gci29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.git_up_push",
+            "certificate_hash": "c45806f149c4b502e381d8a6590a20b874007f71"
+          }
+        },
+        {
+          "client_id": "80340017479-66foasi7s6ctunjqu2mhdd7e5ghmcmtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBh02DlKA_F-Xq6u2-4KUtDSpE635u1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118113103963404369799",
+              "client_type": 3
+            },
+            {
+              "client_id": "80340017479-5dk3k866eb44vd8ecght58akndm1m18q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mokeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80340017479:android:c1bc3575587035df57ec62",
+        "android_client_info": {
+          "package_name": "com.example.practice_path"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80340017479-66foasi7s6ctunjqu2mhdd7e5ghmcmtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBh02DlKA_F-Xq6u2-4KUtDSpE635u1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118113103963404369799",
+              "client_type": 3
+            },
+            {
+              "client_id": "80340017479-5dk3k866eb44vd8ecght58akndm1m18q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mokeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
